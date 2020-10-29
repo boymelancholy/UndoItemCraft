@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace boymelancholy\undoitemcraft\events;
 
-use boymelancholy\kitchen\Tray;
-use boymelancholy\kitchen\Kitchen;
+use Kitchen\boymelancholy\kitchen\Tray;
+use Kitchen\boymelancholy\kitchen\Kitchen;
 use boymelancholy\undoitemcraft\UndoItemCraft;
 use boymelancholy\undoitemcraft\exceptions\Cases;
 use boymelancholy\undoitemcraft\exceptions\Exceptioner;

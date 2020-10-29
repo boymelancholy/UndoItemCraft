@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace boymelancholy\undoitemcraft\events;
 
-use boymelancholy\kitchen\Tray;
+use Kitchen\boymelancholy\kitchen\Tray;
 use boymelancholy\undoitemcraft\exceptions\Exceptioner;
 use boymelancholy\undoitemcraft\utils\TextContainer;
 use boymelancholy\undoitemcraft\utils\UicProcess;
