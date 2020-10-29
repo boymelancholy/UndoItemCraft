@@ -1,0 +1,3 @@
+[submodule "src/Kitchen"]
+	path = src/Kitchen
+	url = git@github.com:boymelancholy/Kitchen.git
